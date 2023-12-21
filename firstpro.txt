@@ -1,0 +1,11 @@
+// Function to add two numbers
+function addNumbers(number1, number2) {
+  return number1 + number2;
+}
+
+// Example usage
+var firstNumber = 5;
+var secondNumber = 10;
+
+var result = addNumbers(firstNumber, secondNumber);
+console.log("The sum is: " + result);
